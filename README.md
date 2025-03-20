@@ -19,8 +19,8 @@ Este proyecto es una aplicación Spring Boot que expone métricas personalizadas
 Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/javiburn/prometheus-grafana-springboot-app.git
+cd prometheus-grafana-springboot-app
 ```
 
 ### **2. Configurar el Proyecto**
